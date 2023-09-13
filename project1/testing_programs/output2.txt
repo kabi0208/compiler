@@ -1,0 +1,411 @@
+Token: 40 #
+Token: 43 include
+Token: 94  
+Token: 54 <
+Token: 39 stdio.h
+Token: 38 >
+Token: 94 
+Token: 61 
+
+Token: 94 
+Token: 61 
+
+Token: 44 int
+Token: 94  
+Token: 41 table
+Token: 49 [
+Token: 18 1024
+Token: 78 ]
+Token: 49 [
+Token: 18 100020
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94 
+Token: 61 
+
+Token: 44 int
+Token: 94  
+Token: 55 main
+Token: 53 (
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 t1
+Token: 11 ,
+Token: 41 t2
+Token: 11 ,
+Token: 41 i
+Token: 11 ,
+Token: 41 n
+Token: 11 ,
+Token: 41 max
+Token: 11 ,
+Token: 41 last
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%d%d"
+Token: 11 ,
+Token: 4 &
+Token: 41 n
+Token: 11 ,
+Token: 4 &
+Token: 41 max
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 w
+Token: 49 [
+Token: 41 n
+Token: 68 +
+Token: 18 2
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 v
+Token: 49 [
+Token: 41 n
+Token: 68 +
+Token: 18 2
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 36 for
+Token: 53 (
+Token: 41 i
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 i
+Token: 46 <=
+Token: 41 n
+Token: 83 ;
+Token: 41 i
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%d%d"
+Token: 11 ,
+Token: 4 &
+Token: 41 w
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 11 ,
+Token: 4 &
+Token: 41 v
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 36 for
+Token: 53 (
+Token: 41 i
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 41 i
+Token: 54 <
+Token: 41 max
+Token: 83 ;
+Token: 41 i
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 41 table
+Token: 49 [
+Token: 18 0
+Token: 78 ]
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 36 for
+Token: 53 (
+Token: 41 i
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 i
+Token: 46 <=
+Token: 41 n
+Token: 83 ;
+Token: 41 i
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 36 for
+Token: 53 (
+Token: 44 int
+Token: 94  
+Token: 41 j
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 j
+Token: 46 <=
+Token: 41 max
+Token: 83 ;
+Token: 41 j
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 42 if
+Token: 53 (
+Token: 41 j
+Token: 54 <
+Token: 41 w
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 29 =
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 57 -
+Token: 18 1
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 27 else
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 last
+Token: 29 =
+Token: 41 j
+Token: 57 -
+Token: 41 w
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 t1
+Token: 29 =
+Token: 41 v
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 68 +
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 57 -
+Token: 18 1
+Token: 78 ]
+Token: 49 [
+Token: 41 last
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 t2
+Token: 29 =
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 57 -
+Token: 18 1
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 42 if
+Token: 53 (
+Token: 41 t1
+Token: 38 >
+Token: 41 t2
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 29 =
+Token: 41 t1
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 27 else
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 table
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 29 =
+Token: 41 t2
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 70 printf
+Token: 53 (
+Token: 47 "%d\n"
+Token: 11 ,
+Token: 41 table
+Token: 49 [
+Token: 41 n
+Token: 78 ]
+Token: 49 [
+Token: 41 max
+Token: 78 ]
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 75 return
+Token: 94  
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 77 }
+Token: 94 
+Token: 61 
+

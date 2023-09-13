@@ -1,0 +1,689 @@
+Token: 40 #
+Token: 43 include
+Token: 94  
+Token: 54 <
+Token: 39 stdio.h
+Token: 38 >
+Token: 94 
+Token: 61 
+
+Token: 94 
+Token: 61 
+
+Token: 44 int
+Token: 94  
+Token: 55 main
+Token: 53 (
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 n
+Token: 11 ,
+Token: 41 m
+Token: 11 ,
+Token: 41 i
+Token: 11 ,
+Token: 41 j
+Token: 11 ,
+Token: 41 x
+Token: 11 ,
+Token: 41 y
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 10 char
+Token: 94  
+Token: 41 a
+Token: 49 [
+Token: 18 110
+Token: 78 ]
+Token: 49 [
+Token: 18 110
+Token: 78 ]
+Token: 29 =
+Token: 48 {
+Token: 9 '\0'
+Token: 77 }
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%d%d"
+Token: 11 ,
+Token: 4 &
+Token: 41 n
+Token: 11 ,
+Token: 4 &
+Token: 41 m
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 36 for
+Token: 53 (
+Token: 41 i
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 41 i
+Token: 54 <
+Token: 41 n
+Token: 83 ;
+Token: 41 i
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%s"
+Token: 11 ,
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 hurt
+Token: 29 =
+Token: 18 0
+Token: 11 ,
+Token: 41 maxhurt
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 bb
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%d"
+Token: 11 ,
+Token: 4 &
+Token: 41 bb
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 36 for
+Token: 53 (
+Token: 41 i
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 41 i
+Token: 54 <
+Token: 41 n
+Token: 83 ;
+Token: 41 i
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 36 for
+Token: 53 (
+Token: 41 j
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 41 j
+Token: 54 <
+Token: 41 m
+Token: 83 ;
+Token: 41 j
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 41 hurt
+Token: 29 =
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 42 if
+Token: 53 (
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 62 !=
+Token: 9 '.'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 17 continue
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 36 for
+Token: 53 (
+Token: 44 int
+Token: 94  
+Token: 41 k
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 54 <
+Token: 41 bb
+Token: 68 +
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 42 if
+Token: 53 (
+Token: 41 j
+Token: 57 -
+Token: 41 k
+Token: 54 <
+Token: 18 0
+Token: 66 ||
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 57 -
+Token: 41 k
+Token: 78 ]
+Token: 30 ==
+Token: 9 '#'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 7 break
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 27 else
+Token: 94  
+Token: 42 if
+Token: 53 (
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 57 -
+Token: 41 k
+Token: 78 ]
+Token: 30 ==
+Token: 9 '@'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 hurt
+Token: 69 ++
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 36 for
+Token: 53 (
+Token: 44 int
+Token: 94  
+Token: 41 k
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 54 <
+Token: 41 bb
+Token: 68 +
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 42 if
+Token: 53 (
+Token: 41 j
+Token: 68 +
+Token: 41 k
+Token: 38 >
+Token: 41 m
+Token: 57 -
+Token: 18 1
+Token: 66 ||
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 68 +
+Token: 41 k
+Token: 78 ]
+Token: 30 ==
+Token: 9 '#'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 7 break
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 27 else
+Token: 94  
+Token: 42 if
+Token: 53 (
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 68 +
+Token: 41 k
+Token: 78 ]
+Token: 30 ==
+Token: 9 '@'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 hurt
+Token: 69 ++
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 36 for
+Token: 53 (
+Token: 44 int
+Token: 94  
+Token: 41 k
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 54 <
+Token: 41 bb
+Token: 68 +
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 42 if
+Token: 53 (
+Token: 41 i
+Token: 57 -
+Token: 41 k
+Token: 54 <
+Token: 18 0
+Token: 66 ||
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 57 -
+Token: 41 k
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 30 ==
+Token: 9 '#'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 7 break
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 27 else
+Token: 94  
+Token: 42 if
+Token: 53 (
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 57 -
+Token: 41 k
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 30 ==
+Token: 9 '@'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 hurt
+Token: 69 ++
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 36 for
+Token: 53 (
+Token: 44 int
+Token: 94  
+Token: 41 k
+Token: 29 =
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 54 <
+Token: 41 bb
+Token: 68 +
+Token: 18 1
+Token: 83 ;
+Token: 41 k
+Token: 69 ++
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 42 if
+Token: 53 (
+Token: 41 i
+Token: 68 +
+Token: 41 k
+Token: 38 >
+Token: 41 n
+Token: 57 -
+Token: 18 1
+Token: 66 ||
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 68 +
+Token: 41 k
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 30 ==
+Token: 9 '#'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 7 break
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 27 else
+Token: 94  
+Token: 42 if
+Token: 53 (
+Token: 41 a
+Token: 49 [
+Token: 41 i
+Token: 68 +
+Token: 41 k
+Token: 78 ]
+Token: 49 [
+Token: 41 j
+Token: 78 ]
+Token: 30 ==
+Token: 9 '@'
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                     
+Token: 41 hurt
+Token: 69 ++
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 42 if
+Token: 53 (
+Token: 41 hurt
+Token: 38 >
+Token: 41 maxhurt
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 maxhurt
+Token: 29 =
+Token: 41 hurt
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 x
+Token: 29 =
+Token: 41 i
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94                 
+Token: 41 y
+Token: 29 =
+Token: 41 j
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94             
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94         
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 77 }
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 70 printf
+Token: 53 (
+Token: 47 "%d %d\n"
+Token: 11 ,
+Token: 41 x
+Token: 11 ,
+Token: 41 y
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 70 printf
+Token: 53 (
+Token: 47 "%d"
+Token: 11 ,
+Token: 41 maxhurt
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 75 return
+Token: 94  
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 77 }
+Token: 94 
+Token: 61 
+

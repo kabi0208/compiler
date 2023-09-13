@@ -1,0 +1,84 @@
+Token: 40 #
+Token: 94  
+Token: 43 include
+Token: 94  
+Token: 54 <
+Token: 39 stdio.h
+Token: 38 >
+Token: 94 
+Token: 61 
+
+Token: 40 #
+Token: 94  
+Token: 20 define
+Token: 94  
+Token: 41 max
+Token: 94  
+Token: 18 10
+Token: 94 
+Token: 61 
+
+Token: 94 
+Token: 61 
+
+Token: 94 
+Token: 61 
+
+Token: 44 int
+Token: 94  
+Token: 55 main
+Token: 53 (
+Token: 81 )
+Token: 48 {
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 44 int
+Token: 94  
+Token: 41 i
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 82 scanf
+Token: 53 (
+Token: 47 "%d"
+Token: 11 ,
+Token: 94  
+Token: 4 &
+Token: 41 i
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 70 printf
+Token: 53 (
+Token: 47 "%d\n"
+Token: 11 ,
+Token: 94  
+Token: 41 i
+Token: 94  
+Token: 68 +
+Token: 94  
+Token: 41 max
+Token: 81 )
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 94     
+Token: 75 return
+Token: 94  
+Token: 18 0
+Token: 83 ;
+Token: 94 
+Token: 61 
+
+Token: 77 }
+Token: 94 
+Token: 61 
+
