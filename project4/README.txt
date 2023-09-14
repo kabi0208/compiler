@@ -1,4 +1,4 @@
-Project 3: Static Type Checker
+Project 4: Small C compiler for LLVM IR  
 409410024 資工三 陳品希
 
 注意事項：
